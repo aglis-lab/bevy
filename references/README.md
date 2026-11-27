@@ -8,7 +8,8 @@ This folder is a **practical reference for both humans and AI agents** building 
 2. **[environment_art_direction.md](environment_art_direction.md)** — Universal visual craft rules: lighting, color harmony, value hierarchy, grounding props, composition, camera framing, atmosphere, and life/motion.
 3. **[style_recipes.md](style_recipes.md)** — Concrete Bevy/WGSL rendering recipes for **Style A (Ghibli / Painterly)** and **Style B (Realistic PBR + `bevy_solari`)**, including exact shader/material/post-FX parameters.
 4. **[ai_world_generation_guide.md](ai_world_generation_guide.md)** — Rules, schemas, scatter formulas, Nerthus terrain pipeline, and a **12-point visual self-critique checklist** for AI agents generating and iterating on worlds.
-5. **[rigging_and_animation.md](rigging_and_animation.md)** — Practical indie/AI-assisted character rigging & animation pipeline (**AccuRIG / Mixamo / Cascadeur -> Blender -> Bevy `AnimationGraph`**) plus runtime polish tips.
+5. **[rigging_and_animation.md](rigging_and_animation.md)** — Practical indie/AI-assisted character rigging & animation pipeline (**Mesh2Motion / AccuRIG / Mixamo / Rokoko -> Blender -> Bevy `AnimationGraph`**) plus runtime polish tips.
+6. **[game_budget_and_roadmap.md](game_budget_and_roadmap.md)** — Full cost breakdown (**Tripo3D credits**, **Cascadeur Indie**, AI coding) and day-by-day schedule from **Design -> MVP -> Ship** across small, medium, and large indie scopes.
 
 ---
 
